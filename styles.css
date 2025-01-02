@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 10px;
+}
+h1 {
+  font-size: 18px;
+}
+h2 {
+  font-size: 16px;
+}
+h3 {
+  font-size: 14px;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+li {
+  margin: 5px 0;
+}
